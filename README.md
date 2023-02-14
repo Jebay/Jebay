@@ -1,4 +1,17 @@
-### Hi there 👋
+Hi 👋 My name is Jean-Baptiste JOLY
+===================================
+
+Security Engineer
+-----------------
+
+*   🌍  I'm based in Paris
+*   🖥️  See my portfolio at [https://jebay.github.io/](https://jebay.github.io/)
+*   ✉️  You can contact me at [jebay.joly@gmail.com](mailto:jebay.joly@gmail.com)
+*   🧠  I'm learning TypeScript, Ruby                    
+
+### Socials
+                  
+ <p align="left"> <a href="https://www.github.com/jebay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jeanbaptistejoly/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <!--
 **Jebay/Jebay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
