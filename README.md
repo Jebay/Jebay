@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 [![Jebay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jebay&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=Jebay&theme=dark&mode=weekly)](https://git.io/streak-stats)
 <!--[![Jean-Baptiste StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6469531&layout=compact&theme=dark)](https://stackoverflow.com/users/6469531/eduloc)-->
+
+<a href="http://www.github.com/jebay"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jebay&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
